@@ -10,13 +10,14 @@ class A
 /*
 System.out.println(args[0]+ "technologies"+args[1]);
 System.out.println("Welcome"+args[0]);
-*/
+
 int sum=0,x,y;
 x=Integer.parseInt(args[0]);
 y=Integer.parseInt(args[1]);
  sum=x+y;
 System.out.println(sum);
-/*
+*/
+
 int n=Integer.parseInt(args[0]);
 
  if(n>0)
@@ -33,6 +34,7 @@ else if(n<0)
 }
 }
 }
+/*
 
 int i,count = 0; 
 		int n=Integer.parseInt(args[0]);	
